@@ -12,7 +12,7 @@ Built for the **Systems Analysis and Design – Scholarship Monitoring System La
 | **Course / Section** | BSIT-3B
 
 ---
-ACCOUNT EMAIL AND PASSWORD: EMAIL: lalajemsxd@gmail.com PASSWORD: 090703lala
+ACCOUNT EMAIL AND PASSWORD: EMAIL: lalajemsxd@adssu.edu.ph PASSWORD: 090703lala
 ## Features
 
 - **Authentication** – Login and logout through Supabase Auth. Protected pages are not accessible without signing in.
