@@ -1,0 +1,3 @@
+// Paste your Supabase credentials here (Project Settings > API)
+const SUPABASE_URL='https://kbpelejjwwxezeyltegn.supabase.co';
+const SUPABASE_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImticGVsZWpqd3d4ZXpleWx0ZWduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA3MDk1NjcsImV4cCI6MjEwNjI4NTU2N30.RvhVnO_X05w4J32If8flJctlztVV1Zb69uimsT3Oi6g';
