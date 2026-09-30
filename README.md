@@ -6,13 +6,13 @@ Built for the **Systems Analysis and Design – Scholarship Monitoring System La
 
 | | |
 |---|---|
-| **Live System** | https://YOUR-USERNAME.github.io/YOUR-REPO/ |
-| **Repository** | https://github.com/YOUR-USERNAME/YOUR-REPO |
-| **Developer(s)** | Your Name / Group Members |
-| **Course / Section** | Your Course and Section |
+| **Live System** | https://dums0907-max.github.io/scholarships-monitoring-system/ |
+| **Repository** | https://github.com/YOUR-USERNAME/YOUR-REPO](https://github.com/dums0907-max/scholarships-monitoring-system |
+| **Developer(s)** | JAMES BLADEMYR DUM |
+| **Course / Section** | BSIT-3B
 
 ---
-
+ACCOUNT EMAIL AND PASSWORD: EMAIL: lalajemsxd@gmail.com PASSWORD: 090703lala
 ## Features
 
 - **Authentication** – Login and logout through Supabase Auth. Protected pages are not accessible without signing in.
@@ -114,15 +114,6 @@ Otherwise the result is **WITH DEFICIENCY**. Only *verified* submissions are eva
 | TC-09 | Filter by scholarship or status | Correct subset displayed | ☐ Pass ☐ Fail |
 | TC-10 | Open deployed URL | System is accessible online | ☐ Pass ☐ Fail |
 
-## Screenshots
-
-Add your screenshots to a `screenshots/` folder and link them here.
-
-```
-![Dashboard](screenshots/dashboard.png)
-![Grade Submission](screenshots/submission.png)
-![Compliance Result](screenshots/compliance.png)
-```
 
 ## Security Notes
 
